@@ -18,7 +18,6 @@
     <dimen name="favorite_book_cover_height">120dp</dimen>
 
 <!--    Components package-->
-    <dimen name="connection_error_bottom_padding"></dimen>
     <dimen name="books_grid_list_compact_width">120dp</dimen>
     <dimen name="favorite_icon_size">32dp</dimen>
 </resources>

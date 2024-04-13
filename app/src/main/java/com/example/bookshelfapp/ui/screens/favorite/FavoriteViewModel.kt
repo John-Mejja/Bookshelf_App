@@ -7,10 +7,8 @@ import com.example.bookshelfapp.data.database.mapToFavoriteBook
 import com.example.bookshelfapp.data.repository.OfflineBookshelfRepository
 import com.example.bookshelfapp.model.Book
 import com.example.bookshelfapp.model.FavoriteType
-import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
-import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.flow.stateIn
 

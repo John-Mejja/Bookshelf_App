@@ -4,7 +4,6 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.bookshelfapp.data.repository.NetworkBookshelfRepository
 import com.example.bookshelfapp.model.Book
-import com.example.bookshelfapp.ui.screens.home.RecommendationResultsState
 import com.example.bookshelfapp.ui.screens.home.SearchState
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow

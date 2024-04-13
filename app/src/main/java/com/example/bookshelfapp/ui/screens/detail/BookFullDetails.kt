@@ -3,7 +3,6 @@ package com.example.bookshelfapp.ui.screens.detail
 import androidx.annotation.StringRes
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.IntrinsicSize
 import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
@@ -58,7 +57,7 @@ fun BookFullDetails(
         HorizontalDivider()
         DetailInformation(
             informationLabel = R.string.published_date,
-            informationDescription = bookDetail.publishedDate.toString()
+            informationDescription = bookDetail.publishedDate
         )
         HorizontalDivider()
         DetailInformation(

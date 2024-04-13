@@ -3,7 +3,6 @@ package com.example.bookshelfapp.ui.components
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Button
@@ -19,6 +18,7 @@ import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.bookshelfapp.R
 import com.example.bookshelfapp.ui.theme.BookshelfAppTheme
+
 @Composable
 fun NothingToShow(
     modifier: Modifier = Modifier,
