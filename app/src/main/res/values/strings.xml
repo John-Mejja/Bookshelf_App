@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bookshelf App</string>
+
+<!--    Components package-->
+    <string name="book_thumbnail_content_description">Book cover image</string>
+    <string name="favorite_icon_content_description">Favourite</string>
+    <string name="search_clear_icon_content_description">Clear search</string>
+    <string name="retry">Retry</string>
+    <string name="by">By:</string>
+    <string name="back_icon_content_description">Back</string>
+    <string name="menu_icon_content_description">Menu</string>
+
+    <string name="about_the_book">About the book</string>
+    <string name="publisher">Publisher</string>
+    <string name="published_date">Date Published</string>
+    <string name="authors">Authors</string>
+    <string name="buy_link">Buy Link</string>
+
+    <string name="search_results">Search Results</string>
+    
+    <string name="home_screen_title">Home</string>
+    <string name="query_screen_title">Search</string>
+    <string name="favorite_screen_title">Your Library</string>
+    <string name="detail_screen_title">Details</string>
+
+</resources>

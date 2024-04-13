@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="no_padding">0dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="elevation_level_1">1dp</dimen>
+    <dimen name="elevation_level_2">3dp</dimen>
+    <dimen name="elevation_level_3">6dp</dimen>
+    <dimen name="elevation_level_4">8dp</dimen>
+    <dimen name="elevation_level_5">12dp</dimen>
+
+<!--    HomeDetailsScreen-->
+    <dimen name="vertical_grid_cells_minimum">120dp</dimen>
+    <dimen name="favorite_surface_shadow">3dp</dimen>
+    <dimen name="favorite_rounded_corner_size">6dp</dimen>
+    <dimen name="favorite_book_cover_width">150dp</dimen>
+    <dimen name="favorite_book_cover_height">120dp</dimen>
+
+<!--    Components package-->
+    <dimen name="connection_error_bottom_padding"></dimen>
+    <dimen name="books_grid_list_compact_width">120dp</dimen>
+    <dimen name="favorite_icon_size">32dp</dimen>
+</resources>
