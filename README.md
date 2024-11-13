@@ -2,7 +2,7 @@
 
 Bookshelf is an Android app from the **Android Basics with Compose** project. It allows users to search for books and fetches book volumes from the **Google Books API**. Users can also save their favorite books for easy access later.
 
-![Bookshelf App Logo](screenshots/home.jpg)
+<img src="screenshots/home.jpg" alt="Bookshelf App Logo" width="400">
 
 ## ✨ Features
 
@@ -27,19 +27,19 @@ Bookshelf is an Android app from the **Android Basics with Compose** project. It
 
 ### Home Screen
 Displays the user's favorite books and recommended books.
-![Bookshelf App homepage](screenshots/home.jpg)
+<img src="screenshots/home.jpg" alt="Bookshelf App homepage" width="400">
 
 ### Query Screen
 Displays search results based on the user's input.
-![Bookshelf App query screen](screenshots/query.jpg)
+<img src="screenshots/query.jpg" alt="Bookshelf App query screen" width="400">
 
 ### Favorites Screen
 Shows all the user's favorite books in a grid layout.
-![Bookshelf App favorites screen](screenshots/favorite.jpg)
+<img src="screenshots/favorite.jpg" alt="Bookshelf App favorites screen" width="400">
 
 ### Book Details
 Provides detailed information about a selected book, including its description, author, and publication details.
-![Bookshelf App details screen](screenshots/details.jpg)
+<img src="screenshots/details.jpg" alt="Bookshelf App details screen" width="400">
 
 ## 🚀 Installation
 
